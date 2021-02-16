@@ -1,6 +1,6 @@
 <img src="https://github.com/PatelVatsalB21/PatelVatsalB21/blob/main/profileIntro.svg" alt="Footer" width="1000">
 
-I am student of Electronics & Communication Engineering at **[VGEC](https://www.vgecg.ac.in/)**, fond of computer programming and learning new things. 
+I am student of **Electronics & Communication Engineering** at **[VGEC](https://www.vgecg.ac.in/)**, fond of computer programming and learning new things. 
 
 Currently I'm working on Android apps along with learning Swift and contributing to 🌐 Open Source thus took a deep dive into Github. 
 
