@@ -5,7 +5,7 @@ I am student of **Electronics & Communication Engineering** at **[VGEC](https://
 Currently I'm working on Android apps along with learning Swift and contributing to 🌐 Open Source thus took a deep dive into Github. 
 
 ### What I'm focusing on 👨‍💻
-- 💻 Working on a [mifos-mobile](https://github.com/openMF/mifos-mobile) and [android-client](https://github.com/openMF/android-client)
+- 💻 Working with [Mifos Initiative](https://github.com/openMF)
 - 📱  Developing my own apps related to Productivity 
 - 🤖 Learning AI related concepts and frameworks with **[Tensorflow](https://www.tensorflow.org/)** 
 
