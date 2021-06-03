@@ -19,11 +19,12 @@ Currently I'm working on Android apps along with learning Swift and contributing
 
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's connect</i>
 
   <p align="center">
-    <a href="https://twitter.com/VatsalP68888638" alt="Twitter"><img src="http://i.imgur.com/wWzX9uB.png"></a>
-    <a href="https://www.linkedin.com/in/vatsal-patel-919691193/" alt="Linkedin"><img src="https://github.com/PatelVatsalB21/PatelVatsalB21/blob/main/linkedin-3-16.png"></a>
+      <a href="https://patelvatsalb21.github.io/" alt="Portfolio"><img src="https://github.com/PatelVatsalB21/PatelVatsalB21/blob/main/portfolio.png" width="18px"></a>
+      &nbsp;&nbsp;&nbsp;<a href="https://twitter.com/VatsalP68888638" alt="Twitter"><img src="http://i.imgur.com/wWzX9uB.png"></a>
+      &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vatsal-patel-919691193/" alt="Linkedin"><img src="https://github.com/PatelVatsalB21/PatelVatsalB21/blob/main/linkedin-3-16.png"></a>
   </p>
   
    <p align="center">
