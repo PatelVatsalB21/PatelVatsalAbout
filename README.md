@@ -2,12 +2,13 @@
 
 I am student of **Electronics & Communication Engineering** at **[VGEC](https://www.vgecg.ac.in/)**, fond of computer programming and learning new things. 
 
-Currently I'm working on Android apps along with learning Swift and contributing to 🌐 Open Source thus took a deep dive into Github. 
+Currently I'm working on Machine Learning concepts and contributing to 🌐 Open Source thus took a deep dive into Github. 
 
 ### What I'm focusing on 👨‍💻
-- 💻 Working with [The Apache Software Foundation](https://github.com/apache) and [Mifos Initiative](https://github.com/openMF) 
-- 📱  Developing my own apps related to Productivity 
 - 🤖 Learning AI related concepts and frameworks with **[Tensorflow](https://www.tensorflow.org/)** 
+- 📱  Learning new EC stuff
+- 💻 Working with [The Apache Software Foundation](https://github.com/apache) and [Mifos Initiative](https://github.com/openMF) 
+
 
 <details >
     <summary> &#x1f4c8; GitHub Stats </summary>
