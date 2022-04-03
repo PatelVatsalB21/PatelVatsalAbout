@@ -1,13 +1,12 @@
 <img src="https://github.com/PatelVatsalB21/PatelVatsalB21/blob/main/profileIntro.svg" alt="Footer" width="1000">
 
-I am student of **Electronics & Communication Engineering** at **[VGEC](https://www.vgecg.ac.in/)**, fond of computer programming and learning new things. 
+I am student of **Electronics & Communication Engineering** at **[VGEC](https://www.vgecg.ac.in/)**, fond of learning new things. I am an an Electronics Engineer, an AI Enthusiast, an Android Developer and an Opensource Explorer.
 
-Currently I'm working on Machine Learning concepts and contributing to 🌐 Open Source thus took a deep dive into Github. 
 
 ### What I'm focusing on 👨‍💻
-- 🤖 Learning AI related concepts and frameworks with **[Tensorflow](https://www.tensorflow.org/)** 
 - 📱  Learning new EC stuff
-- 💻 Working with [The Apache Software Foundation](https://github.com/apache) and [Mifos Initiative](https://github.com/openMF) 
+- 🤖 Learning AI related concepts 
+- 💻 Working on the [Ultrasonic-SLAM](https://github.com/PatelVatsalB21/Ultrasonic-SLAM) project 
 
 
 <details >
