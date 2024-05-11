@@ -2,13 +2,6 @@
 
 I am student of **Electronics & Communication Engineering** at **[VGEC](https://www.vgecg.ac.in/)**, fond of learning new things. I am an an Electronics Engineer, an AI Enthusiast, an Android Developer and an Opensource Explorer.
 
-
-### What I'm focusing on 👨‍💻
-- 📱  Learning new EC stuff
-- 🤖 Learning AI related concepts 
-- 💻 Working on the [Ultrasonic-SLAM](https://github.com/PatelVatsalB21/Ultrasonic-SLAM) project 
-
-
 <details >
     <summary> &#x1f4c8; GitHub Stats </summary>
     <br>
